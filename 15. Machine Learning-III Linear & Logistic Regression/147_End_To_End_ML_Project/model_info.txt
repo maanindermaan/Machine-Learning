@@ -1,0 +1,5 @@
+We will make a Web Application jo pickle ke file ke sath interact krega jha pe input jayenge boht se features or hum predict krenge Output ko i.e. FWI,
+
+Hume pickle file use krna padega jisme input jayenga fir output ayega(ridge.pkl) but usse pehle mai (scaler.pkl) se use tranform karunga
+
+Hum ek FLASK app banayenge jisme ek form hoga 
